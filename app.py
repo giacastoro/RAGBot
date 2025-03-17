@@ -43,7 +43,7 @@ DB_DIR = "chroma_db"
 MD_DIR = "markdown_data"
 
 # Chiave API di Mistral
-MISTRAL_API_KEY = "b3qMOsjlI5tmPKGlKIz4gFbELjfxXxvi"
+MISTRAL_API_KEY = "your_api"
 
 # Funzione per caricare la configurazione dei chatbot
 def load_chatbots_config():
